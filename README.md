@@ -1,4 +1,6 @@
 # cs-665-assignment2
+# github link
+https://github.com/MabelessMa/cs-665-assignment2/tree/main
 # implementation description
 ## overview:
 The project is a delivery notification system where a collection of retailers collaborates with freelance drivers (van, taxi, scooter) to deliver products to customers. The system follows the Observer Design Pattern, where drivers (observers) get notified of delivery requests (subject) in real-time.
